@@ -46,7 +46,7 @@ global.upsongvoice = "true" // bot can upload song as voice note (it use your da
 
 global.owner = ['+94761285478']
 global.ownertag = '+94761285478' //your tag number
-global.botname = 'YT╺ SHANI- 𝘉𝘖𝘛' //ur bot name
+global.botname = 'YT╺ SHANI- BOT' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "YT╺ SHANI " // sticker author
 global.dragonemoji = '🧩' // Menu emoji
